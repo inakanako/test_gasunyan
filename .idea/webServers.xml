@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b1c6e073-3d5b-45ce-9089-6811573759c0" name="siojiri (project level)" url="http://html.takashia.xyz">
+        <fileTransfer host="html.takashia.xyz" port="22" rootFolder="/var/www/ina" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
