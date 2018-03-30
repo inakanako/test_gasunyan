@@ -28,7 +28,6 @@ if($name=="ando"&&$pass=="test"){
 <form action="test2.php">
     <input type="text" name="name">
     <input type="password" name="pass">
-    <input type="submit">
 </form>
 </body>
 </html>
